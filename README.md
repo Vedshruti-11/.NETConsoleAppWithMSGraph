@@ -1,8 +1,8 @@
-### Project name
+## Project name
 
-.NETConsoleAppWithMSGraph
+###.NETConsoleAppWithMSGraph
 
-### Description
+## Description
 
 ### .NETConsoleAppWithMSGraph
 It is a basic Menu Driven Console Application using .NET & Microsoft Graph.
