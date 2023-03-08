@@ -1,6 +1,6 @@
 ## Project name
 
-###.NETConsoleAppWithMSGraph
+### .NETConsoleAppWithMSGraph
 
 ## Description
 
