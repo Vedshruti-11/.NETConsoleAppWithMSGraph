@@ -4,7 +4,7 @@
 
 ### Description
 
-# .NETConsoleAppWithMSGraph
+### .NETConsoleAppWithMSGraph
 It is a basic Menu Driven Console Application using .NET & Microsoft Graph.
 First Authorization of client takes place. 
 (A code will be given and the user need to log in their Microsoft account through [https://microsoft.com/devicelogin](https://microsoft.com/devicelogin) )
